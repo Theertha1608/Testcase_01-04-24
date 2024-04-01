@@ -1,0 +1,35 @@
+
+
+.author-details-container {
+    border: 2px solid #ccc; 
+    border-radius: 5px; 
+    padding: 20px; 
+}
+
+.author-details-container h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.author-details-container h2 {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.author-details-container ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.author-details-container li {
+    margin-bottom: 5px;
+}
+
+.author-details-container a {
+    text-decoration: none;
+    color: blue; 
+}
+
+.author-details-container a:hover {
+    text-decoration: underline;
+}
